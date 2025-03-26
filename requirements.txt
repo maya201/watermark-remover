@@ -1,0 +1,5 @@
+PyQt6==6.6.1
+Pillow==10.2.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+pyinstaller==6.12.0
